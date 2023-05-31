@@ -1,3 +1,3 @@
-### `<h3>`Lielais Headers
+### `<h3>`Mazais
 ## `<h2>` Videjais Headers
-# `<h1>` Mazais
+# `<h1>` Lielais
